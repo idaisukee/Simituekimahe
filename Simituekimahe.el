@@ -1,3 +1,5 @@
+(require 'ht)
+
 (setq ieremii-color
     (ht
         ("clean-pondwater" "#a7dbd8")
